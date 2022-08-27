@@ -1,0 +1,9 @@
+table.dataTable tbody tr.selected{
+    background-color: #ededf0;
+}
+table.dataTable tbody tr td p.no-data{
+    text-align: center;
+    color: #ff3333;
+    padding-top: 2.2rem;
+    padding-bottom: 1rem;
+}
